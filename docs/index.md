@@ -17,6 +17,14 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 ## FT8
 
-<iframe src="output/animation-band.html" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+### Animated by freq
 
-<iframe src="output/animation-time.html" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+- [Whole page](output/animation-band.html)
+
+<iframe src="output/animation-band.html" width="100%" height="400" frameborder="0"></iframe>
+
+### Animated by time
+
+- [Whole page](output/animation-time.html)
+
+<iframe src="output/animation-time.html" width="100%" height="400" frameborder="0"></iframe>
