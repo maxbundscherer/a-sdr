@@ -12,15 +12,25 @@ Just another sdr project.
 Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 - Please use project page [A-SDR](https://maxbundscherer.github.io/a-sdr/)
-
+<!--
 ## Table of contents (GitHub Pages)
 
 * TOC
 {:toc}
-
+-->
 ## FT8
 
 ### Static
+
+<p>
+Please select on of this modes:<br />
+<ul>
+  <li>Dark with sizes</li>
+  <li>Dark without sizes</li>
+  <li>Bright with sizes</li>
+  <li>Bright without sizes</li>
+</ul>
+</p>
 
 <div class="accordion-container" id="ac-static">
 
@@ -83,10 +93,18 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 </div>
 
 <script>
-  new Accordion("#ac-static", {openOnInit: [0]});
+  new Accordion("#ac-static", {});
 </script>
 
 ### Filtered
+
+<p>
+Please select on of this modes:<br />
+<ul>
+  <li>By Band</li>
+  <li>By Time</li>
+</ul>
+</p>
 
 <div class="accordion-container" id="ac-filtered">
 
