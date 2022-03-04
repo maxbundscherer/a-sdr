@@ -33,32 +33,6 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 ### Static
 
-#### Dark - with sizes
-
-- [Whole page](output/dark-size.html)
-
-<iframe src="output/dark-size.html" width="100%" height="600" frameborder="0"></iframe>
-
-#### Dark - without sizes
-
-- [Whole page](output/dark-no-size.html)
-
-<iframe src="output/dark-no-size.html" width="100%" height="600" frameborder="0"></iframe>
-
-#### Bright - with sizes
-
-- [Whole page](output/bright-size.html)
-
-<iframe src="output/bright-size.html" width="100%" height="600" frameborder="0"></iframe>
-
-#### Bright - without sizes
-
-- [Whole page](output/bright-no-size.html)
-
-<iframe src="output/bright-no-size.html" width="100%" height="600" frameborder="0"></iframe>
-
-### Static 2.0
-
 <link rel="stylesheet" href="https://unpkg.com/accordion-js@3.1.1/dist/accordion.min.css">
 <script src="https://unpkg.com/accordion-js@3.1.1/dist/accordion.min.js"></script>
 
@@ -70,7 +44,7 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
       <button class="ac-trigger">Dark with sizes</button>
     </h2>
     <div class="ac-panel">
-      <p><a href="output/dark-size.html">Go</a> to full size</p>
+      <a href="output/dark-size.html">Go</a> to full size<br />
       <iframe src="output/dark-size.html" width="100%" height="600" frameborder="0"></iframe>
     </div>
   </div>
@@ -82,7 +56,7 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
       <button class="ac-trigger">Dark without sizes</button>
     </h2>
     <div class="ac-panel">
-      <p><a href="output/dark-no-size.html">Go</a> to full size</p>
+      <a href="output/dark-no-size.html">Go</a> to full size<br />
       <iframe src="output/dark-no-size.html" width="100%" height="600" frameborder="0"></iframe>
     </div>
   </div>
@@ -94,7 +68,7 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
       <button class="ac-trigger">Bright with sizes</button>
     </h2>
     <div class="ac-panel">
-      <p><a href="output/bright-size.html">Go</a> to full size</p>
+      <a href="output/bright-size.html">Go</a> to full size<br />
       <iframe src="output/bright-size.html" width="100%" height="600" frameborder="0"></iframe>
     </div>
   </div>
@@ -106,7 +80,7 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
       <button class="ac-trigger">Bright without sizes</button>
     </h2>
     <div class="ac-panel">
-      <p><a href="output/bright-no-size.html">Go</a> to full size</p>
+      <a href="output/bright-no-size.html">Go</a> to full size<br />
       <iframe src="output/bright-no-size.html" width="100%" height="600" frameborder="0"></iframe>
     </div>
   </div>
