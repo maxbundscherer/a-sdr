@@ -3,9 +3,9 @@
 
 # Awesome/Automatic SDR
 
-Just another sdr project.
+Just another Software-defined radio (SDR) project and page.
 
-``awesome - automatic - sdr``
+``sdr - radio - signal - classification - machine learning - python - rtl - gnuradio``
 
 [![shields.io](https://img.shields.io/badge/license-Apache2-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.txt)
 
@@ -27,15 +27,17 @@ I am starting with publishing ft8-signal maps received with my loop antenna. At 
 
 ## FT8
 
-### Static
+There are two sections: **Default** and **Filtered**.
+
+### Default
 
 <p>
 Please select one of these modes:<br />
 <ul>
-  <li>Dark with sizes</li>
-  <li>Dark without sizes</li>
-  <li>Bright with sizes</li>
-  <li>Bright without sizes</li>
+  <li>Dark map visualizing influence of different radio amateurs</li>
+  <li>Dark map visualizing all signals equal</li>
+  <li>Bright map visualizing influence of different radio amateurs</li>
+  <li>Bright map visualizing all signals equal</li>
 </ul>
 </p>
 
@@ -44,7 +46,7 @@ Please select one of these modes:<br />
   <!-- Item START -->
   <div class="ac">
     <h2 class="ac-header">
-      <button class="ac-trigger">Dark with sizes</button>
+      <button class="ac-trigger">Dark map with influence</button>
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
@@ -58,7 +60,7 @@ Please select one of these modes:<br />
    <!-- Item START -->
   <div class="ac">
     <h2 class="ac-header">
-      <button class="ac-trigger">Dark without sizes</button>
+      <button class="ac-trigger">Dark map without influence</button>
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
@@ -72,7 +74,7 @@ Please select one of these modes:<br />
   <!-- Item START -->
   <div class="ac">
     <h2 class="ac-header">
-      <button class="ac-trigger">Bright with sizes</button>
+      <button class="ac-trigger">Bright map with influence</button>
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
@@ -86,7 +88,7 @@ Please select one of these modes:<br />
    <!-- Item START -->
    <div class="ac">
     <h2 class="ac-header">
-      <button class="ac-trigger">Bright without sizes</button>
+      <button class="ac-trigger">Bright map without influence</button>
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
@@ -108,8 +110,8 @@ Please select one of these modes:<br />
 <p>
 Please select one of these modes:<br />
 <ul>
-  <li>By Band</li>
-  <li>By Time</li>
+  <li>By radio band</li>
+  <li>By time</li>
 </ul>
 </p>
 
@@ -118,7 +120,7 @@ Please select one of these modes:<br />
   <!-- Item START -->
   <div class="ac">
     <h2 class="ac-header">
-      <button class="ac-trigger">By Band</button>
+      <button class="ac-trigger">By radio band</button>
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
@@ -132,7 +134,7 @@ Please select one of these modes:<br />
    <!-- Item START -->
   <div class="ac">
     <h2 class="ac-header">
-      <button class="ac-trigger">By Time</button>
+      <button class="ac-trigger">By time</button>
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
