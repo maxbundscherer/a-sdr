@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://unpkg.com/accordion-js@3.1.1/dist/accordion.min.css">
+<script src="https://unpkg.com/accordion-js@3.1.1/dist/accordion.min.js"></script>
+
 # Awesome/Automatic SDR
 
 Just another sdr project.
@@ -19,22 +22,39 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 ### Animated
 
-#### by freq
+<div class="accordion-container" id="ac-animated">
 
-- [Whole page](output/animation-band.html)
+  <!-- Item START -->
+  <div class="ac">
+    <h2 class="ac-header">
+      <button class="ac-trigger">By Band</button>
+    </h2>
+    <div class="ac-panel">
+      <a href="output/animation-band.html">Go</a> to full size<br />
+      <iframe src="output/animation-band.html" width="100%" height="600" frameborder="0"></iframe>
+    </div>
+  </div>
+  <!-- Item STOP -->
 
-<iframe src="output/animation-band.html" width="100%" height="600" frameborder="0"></iframe>
+   <!-- Item START -->
+  <div class="ac">
+    <h2 class="ac-header">
+      <button class="ac-trigger">By Time</button>
+    </h2>
+    <div class="ac-panel">
+      <a href="output/animation-time.html">Go</a> to full size<br />
+      <iframe src="output/animation-time.html" width="100%" height="600" frameborder="0"></iframe>
+    </div>
+  </div>
+  <!-- Item STOP -->
 
-#### by time
+</div>
 
-- [Whole page](output/animation-time.html)
-
-<iframe src="output/animation-time.html" width="100%" height="600" frameborder="0"></iframe>
+<script>
+  new Accordion("#ac-animated", {openOnInit: [0]});
+</script>
 
 ### Static
-
-<link rel="stylesheet" href="https://unpkg.com/accordion-js@3.1.1/dist/accordion.min.css">
-<script src="https://unpkg.com/accordion-js@3.1.1/dist/accordion.min.js"></script>
 
 <div class="accordion-container" id="ac-static">
 
