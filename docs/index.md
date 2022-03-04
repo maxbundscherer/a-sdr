@@ -17,7 +17,7 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 ### Static
 
 <p>
-Please select on of this modes:<br />
+Please select one of these modes:<br />
 <ul>
   <li>Dark with sizes</li>
   <li>Dark without sizes</li>
@@ -93,7 +93,7 @@ Please select on of this modes:<br />
 ### Filtered
 
 <p>
-Please select on of this modes:<br />
+Please select one of these modes:<br />
 <ul>
   <li>By Band</li>
   <li>By Time</li>
