@@ -17,4 +17,6 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 ## FT8
 
-- tbd
+<iframe src="output/animation-band.html"></iframe>
+
+<iframe src="output/animation-time.html"></iframe>
