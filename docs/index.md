@@ -19,7 +19,7 @@ Welcome to my [Software-defined radio (SDR)](https://en.wikipedia.org/wiki/Softw
 
 Normally I am a computer scientist with a focus on data science and software engineering located in Germany near Munich (QTH JN58). Today I want to **share my radio signal hobby** with all of you. I currently have no amateur radio license, but I am on it.
 
-Instead of learning for the amateur radio license, I am dealing with **automatic signal identification, classification, monitoring, demodulation & decoding of voice, data & natural radio signals**. I am using traditional methods and machine learning (ml)/ artificial intelligence (ai) techniques for these points.
+Instead of learning for the amateur radio license, I am dealing with **automatic signal identification, classification, monitoring, demodulation & decoding of voice, data & natural radio signals**. I am using traditional methods and machine learning (ml) / artificial intelligence (ai) techniques for these points.
 
 **This page is about automatic (live) monitoring/reporting of different radio signals and sdr related topics**. Unfortunately, this page is under construction and is not complete. This page has started on 04-Mar-2022 and there are a lot of things to publish and do. So check back from time to time.
 
@@ -147,4 +147,14 @@ Please select one of these modes:<br />
 
 <script>
   new Accordion("#ac-filtered");
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-72DH61K0HZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-72DH61K0HZ');
 </script>
