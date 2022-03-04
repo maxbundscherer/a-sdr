@@ -8,4 +8,4 @@ Just another sdr project.
 
 Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
-- Please use project website [A-SDR](https://maxbundscherer.github.io/a-sdr/)
+- Please use project page [A-SDR](https://maxbundscherer.github.io/a-sdr/)
