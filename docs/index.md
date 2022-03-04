@@ -148,7 +148,7 @@ Please select one of these modes:<br />
 </div>
 
 <script>
-  new Accordion("#ac-filtered");
+  new Accordion("#ac-filtered", {openOnInit: [0]});
 </script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
