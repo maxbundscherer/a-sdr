@@ -23,13 +23,13 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 - [Whole page](output/animation-band.html)
 
-<iframe src="output/animation-band.html" width="100%" height="800" frameborder="0"></iframe>
+<iframe src="output/animation-band.html" width="100%" height="600" frameborder="0"></iframe>
 
 #### by time
 
 - [Whole page](output/animation-time.html)
 
-<iframe src="output/animation-time.html" width="100%" height="800" frameborder="0"></iframe>
+<iframe src="output/animation-time.html" width="100%" height="600" frameborder="0"></iframe>
 
 ### Static
 
@@ -37,22 +37,22 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 - [Whole page](output/dark-size.html)
 
-<iframe src="output/dark-size.html" width="100%" height="800" frameborder="0"></iframe>
+<iframe src="output/dark-size.html" width="100%" height="600" frameborder="0"></iframe>
 
 #### Dark - without sizes
 
 - [Whole page](output/dark-no-size.html)
 
-<iframe src="output/dark-no-size.html" width="100%" height="800" frameborder="0"></iframe>
+<iframe src="output/dark-no-size.html" width="100%" height="600" frameborder="0"></iframe>
 
 #### Bright - with sizes
 
 - [Whole page](output/bright-size.html)
 
-<iframe src="output/bright-size.html" width="100%" height="800" frameborder="0"></iframe>
+<iframe src="output/bright-size.html" width="100%" height="600" frameborder="0"></iframe>
 
 #### Bright - without sizes
 
 - [Whole page](output/bright-no-size.html)
 
-<iframe src="output/bright-no-size.html" width="100%" height="800" frameborder="0"></iframe>
+<iframe src="output/bright-no-size.html" width="100%" height="600" frameborder="0"></iframe>
