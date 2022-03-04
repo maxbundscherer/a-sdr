@@ -30,8 +30,10 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
       <button class="ac-trigger">By Band</button>
     </h2>
     <div class="ac-panel">
+    <p class="ac-text">
       <a href="output/animation-band.html">Go</a> to full size<br />
       <iframe src="output/animation-band.html" width="100%" height="600" frameborder="0"></iframe>
+    </p>
     </div>
   </div>
   <!-- Item STOP -->
