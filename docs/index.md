@@ -21,10 +21,10 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 - [Whole page](output/animation-band.html)
 
-<iframe src="output/animation-band.html" width="100%" height="400" frameborder="0"></iframe>
+<iframe src="output/animation-band.html" width="100%" frameborder="0"></iframe>
 
 ### Animated by time
 
 - [Whole page](output/animation-time.html)
 
-<iframe src="output/animation-time.html" width="100%" height="400" frameborder="0"></iframe>
+<iframe src="output/animation-time.html" width="100%" frameborder="0"></iframe>
