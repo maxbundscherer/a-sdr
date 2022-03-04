@@ -25,7 +25,7 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 <iframe src="output/animation-band.html" width="100%" height="800" frameborder="0"></iframe>
 
-##### by time
+#### by time
 
 - [Whole page](output/animation-time.html)
 
