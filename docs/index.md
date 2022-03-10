@@ -164,6 +164,14 @@ There are two sections: **Stats**, **Time plots**.
 
 ### Stats
 
+<p>
+Please select one of these modes:<br />
+<ul>
+  <li>Frequent callsigns</li>
+  <li>Frequent grids</li>
+</ul>
+</p>
+
 <div class="accordion-container" id="ac-stats">
 
   <!-- Item START -->
