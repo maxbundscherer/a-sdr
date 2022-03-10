@@ -202,12 +202,20 @@ There are two sections: **Stats**, **Time plots**.
 
 ### Time plots
 
+<p>
+Please select one of these modes:<br />
+<ul>
+  <li>By radio band</li>
+  <li>By frequency</li>
+</ul>
+</p>
+
 <div class="accordion-container" id="ac-time-plots">
 
   <!-- Item START -->
   <div class="ac">
     <h2 class="ac-header">
-      <button class="ac-trigger">Band</button>
+      <button class="ac-trigger">By radio band</button>
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
@@ -221,7 +229,7 @@ There are two sections: **Stats**, **Time plots**.
    <!-- Item START -->
   <div class="ac">
     <h2 class="ac-header">
-      <button class="ac-trigger">Frequency</button>
+      <button class="ac-trigger">By frequency</button>
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
