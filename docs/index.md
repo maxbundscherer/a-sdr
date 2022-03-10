@@ -28,9 +28,11 @@ Instead of learning for the amateur radio license, I am dealing with **automatic
 
 I am starting with publishing ft8-signal maps received with my loop antenna. At the moment I am waiting for the ordered server hardware. Currently, I am using a Raspberry Pi, GNU Radio & self-developed tools/software in Python and C++. Because my setup is currently based on a Raspberry Pi I can not do all steps automatically in time. **So until the server hardware is delivered I publish new stuff from time to time**.
 
-## FT8
+ Timestamps are specified in UTC.
 
-There are three sections: **Default Map**, **Filtered Map**, **Info**. Timestamps are specified in UTC.
+## Maps
+
+There are two sections: **Default Map**, **Filtered Map**.
 
 ### Default Map
 
@@ -154,11 +156,13 @@ Please select one of these modes:<br />
   new Accordion("#ac-filtered", {openOnInit: [0]});
 </script>
 
-### Info
+## Info
+
+There are two sections: **Stats**, **Time plots**.
 
 <iframe src="output/ov-specs.html" width="100%" frameborder="0"></iframe>
 
-### Stats
+## Stats
 
 <div class="accordion-container" id="ac-stats">
 
@@ -196,7 +200,7 @@ Please select one of these modes:<br />
   new Accordion("#ac-stats", {openOnInit: [0]});
 </script>
 
-### Time plots
+## Time plots
 
 <div class="accordion-container" id="ac-time-plots">
 
