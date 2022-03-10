@@ -162,7 +162,7 @@ There are two sections: **Stats**, **Time plots**.
 
 <iframe src="output/ov-specs.html" width="100%" frameborder="0"></iframe>
 
-## Stats
+### Stats
 
 <div class="accordion-container" id="ac-stats">
 
@@ -200,7 +200,7 @@ There are two sections: **Stats**, **Time plots**.
   new Accordion("#ac-stats", {openOnInit: [0]});
 </script>
 
-## Time plots
+### Time plots
 
 <div class="accordion-container" id="ac-time-plots">
 
