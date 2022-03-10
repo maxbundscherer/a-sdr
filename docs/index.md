@@ -13,6 +13,9 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 - Please use project page [A-SDR](https://maxbundscherer.github.io/a-sdr/)
 
+* TOC
+{:toc}
+
 ## Overview
 
 Welcome to my [Software-defined radio (SDR)](https://en.wikipedia.org/wiki/Software-defined_radio) page.
@@ -191,6 +194,44 @@ Please select one of these modes:<br />
 
 <script>
   new Accordion("#ac-stats", {openOnInit: [0]});
+</script>
+
+### Time plots
+
+<div class="accordion-container" id="ac-time-plots">
+
+  <!-- Item START -->
+  <div class="ac">
+    <h2 class="ac-header">
+      <button class="ac-trigger">Band</button>
+    </h2>
+    <div class="ac-panel">
+    <p class="ac-text">
+      <a href="output/ov-band-by-time.html">Go</a> to full size<br />
+      <iframe src="output/ov-band-by-time.html" width="100%" height="400" frameborder="0"></iframe>
+    </p>
+    </div>
+  </div>
+  <!-- Item STOP -->
+
+   <!-- Item START -->
+  <div class="ac">
+    <h2 class="ac-header">
+      <button class="ac-trigger">Frequency</button>
+    </h2>
+    <div class="ac-panel">
+    <p class="ac-text">
+      <a href="output/ov-frequency-by-time.html">Go</a> to full size<br />
+      <iframe src="output/ov-frequency-by-time.html" width="100%" height="600" frameborder="0"></iframe>
+    </p>
+    </div>
+  </div>
+  <!-- Item STOP -->
+
+</div>
+
+<script>
+  new Accordion("#ac-time-plots", {openOnInit: [0]});
 </script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
