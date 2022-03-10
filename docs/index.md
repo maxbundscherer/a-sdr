@@ -27,9 +27,9 @@ I am starting with publishing ft8-signal maps received with my loop antenna. At 
 
 ## FT8
 
-There are two sections: **Default** and **Filtered**.
+There are three sections: **Default Map**, **Filtered Map**, **Info**. Timestamps are specified in UTC.
 
-### Default
+### Default Map
 
 <p>
 Please select one of these modes:<br />
@@ -105,7 +105,7 @@ Please select one of these modes:<br />
   new Accordion("#ac-static", {openOnInit: [0]});
 </script>
 
-### Filtered
+### Filtered Map
 
 <p>
 Please select one of these modes:<br />
@@ -150,6 +150,10 @@ Please select one of these modes:<br />
 <script>
   new Accordion("#ac-filtered", {openOnInit: [0]});
 </script>
+
+### Info
+
+<iframe src="output/ov-specs.html" width="100%" frameborder="0"></iframe>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-72DH61K0HZ"></script>
