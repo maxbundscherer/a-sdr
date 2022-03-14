@@ -26,13 +26,13 @@ Instead of learning for the amateur radio license, I am dealing with **automatic
 
 **This page is about automatic (live) monitoring/reporting of different radio signals and sdr related topics**. Unfortunately, this page is under construction and is not complete. This page has started on 04-Mar-2022 and there are a lot of things to publish and do. So check back from time to time.
 
-I am starting with publishing ft8-signal maps received with my loop antenna. At the moment I am waiting for the ordered server hardware. Currently, I am using a Raspberry Pi, GNU Radio & self-developed tools/software in Python and C++. Because my setup is currently based on a Raspberry Pi I can not do all steps automatically in time. **So until the server hardware is delivered I publish new stuff from time to time**.
+I am starting with publishing ft8-signal maps received with my loop antenna. The setup is based on GNU Radio & self-developed tools/software in Python and C++. **New data is automatically published every two hours.**.
 
  Timestamps are specified in UTC.
 
 ## Maps
 
-There are two sections: **Default Map**, **Filtered Map**.
+There are two sections: **Default Map** and **Filtered Map**.
 
 ### Default Map
 
@@ -158,7 +158,7 @@ Please select one of these modes:<br />
 
 ## Info
 
-There are two sections: **Stats**, **Time plots**.
+There are two sections: **Stats** and **Time plots**.
 
 <iframe src="output/ov-specs.html" width="100%" frameborder="0"></iframe>
 
