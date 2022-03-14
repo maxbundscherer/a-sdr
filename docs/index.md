@@ -26,9 +26,9 @@ Instead of learning for the amateur radio license, I am dealing with **automatic
 
 **This page is about automatic (live) monitoring/reporting of different radio signals and sdr related topics**. Unfortunately, this page is under construction and is not complete. This page has started on 04-Mar-2022 and there are a lot of things to publish and do. So check back from time to time.
 
-I am starting with publishing ft8-signal maps received with my loop antenna. The setup is based on GNU Radio & self-developed tools/software in Python and C++. **New data is automatically published every two hours.**.
+I am starting with publishing ft8-signal maps received with my loop antenna. The setup is based on GNU Radio & self-developed tools/software in Python and C++. **New data is automatically published every two hours**.
 
- Timestamps are specified in UTC.
+Timestamps are specified in UTC.
 
 ## Maps
 
