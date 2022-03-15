@@ -208,6 +208,52 @@ Please select one of these modes:<br />
   new Accordion("#ac-time-plots", {openOnInit: [0]});
 </script>
 
+### Radio Bands Plots
+
+<p>
+Please select one of these modes:<br />
+<ul>
+  <li>Time series</li>
+  <li>All</li>
+</ul>
+</p>
+
+<div class="accordion-container" id="ac-time-band-plots">
+
+  <!-- Item START -->
+  <div class="ac">
+    <h2 class="ac-header">
+      <button class="ac-trigger">Time series</button>
+    </h2>
+    <div class="ac-panel">
+    <p class="ac-text">
+      <a href="output/animation-counts-band.html">Go</a> to full size<br />
+      <iframe src="output/animation-counts-band.html" width="100%" height="400" frameborder="0"></iframe>
+    </p>
+    </div>
+  </div>
+  <!-- Item STOP -->
+
+   <!-- Item START -->
+  <div class="ac">
+    <h2 class="ac-header">
+      <button class="ac-trigger">All</button>
+    </h2>
+    <div class="ac-panel">
+    <p class="ac-text">
+      <a href="output/global-stats-band.html">Go</a> to full size<br />
+      <iframe src="output/global-stats-band.html" width="100%" height="400" frameborder="0"></iframe>
+    </p>
+    </div>
+  </div>
+  <!-- Item STOP -->
+
+</div>
+
+<script>
+  new Accordion("#ac-time-band-plots", {openOnInit: [0]});
+</script>
+
 ### Stats
 
 <p>
