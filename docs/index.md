@@ -158,55 +158,9 @@ Please select one of these modes:<br />
 
 ## Info
 
-There are two sections: **Stats** and **Time plots**.
+There are two sections: **Time plots** and **Stats**.
 
 <iframe src="output/ov-specs.html" width="100%" frameborder="0"></iframe>
-
-### Stats
-
-<p>
-Please select one of these modes:<br />
-<ul>
-  <li>Frequent callsigns</li>
-  <li>Frequent grids</li>
-</ul>
-</p>
-
-<div class="accordion-container" id="ac-stats">
-
-  <!-- Item START -->
-  <div class="ac">
-    <h2 class="ac-header">
-      <button class="ac-trigger">Frequent callsigns</button>
-    </h2>
-    <div class="ac-panel">
-    <p class="ac-text">
-      <a href="output/ov-callsigns.html">Go</a> to full size<br />
-      <iframe src="output/ov-callsigns.html" width="100%" height="400" frameborder="0"></iframe>
-    </p>
-    </div>
-  </div>
-  <!-- Item STOP -->
-
-   <!-- Item START -->
-  <div class="ac">
-    <h2 class="ac-header">
-      <button class="ac-trigger">Frequent grids</button>
-    </h2>
-    <div class="ac-panel">
-    <p class="ac-text">
-      <a href="output/ov-grids.html">Go</a> to full size<br />
-      <iframe src="output/ov-grids" width="100%" height="400" frameborder="0"></iframe>
-    </p>
-    </div>
-  </div>
-  <!-- Item STOP -->
-
-</div>
-
-<script>
-  new Accordion("#ac-stats", {openOnInit: [0]});
-</script>
 
 ### Time plots
 
@@ -252,6 +206,52 @@ Please select one of these modes:<br />
 
 <script>
   new Accordion("#ac-time-plots", {openOnInit: [0]});
+</script>
+
+### Stats
+
+<p>
+Please select one of these modes:<br />
+<ul>
+  <li>Frequent callsigns</li>
+  <li>Frequent grids</li>
+</ul>
+</p>
+
+<div class="accordion-container" id="ac-stats">
+
+  <!-- Item START -->
+  <div class="ac">
+    <h2 class="ac-header">
+      <button class="ac-trigger">Frequent callsigns</button>
+    </h2>
+    <div class="ac-panel">
+    <p class="ac-text">
+      <a href="output/ov-callsigns.html">Go</a> to full size<br />
+      <iframe src="output/ov-callsigns.html" width="100%" height="400" frameborder="0"></iframe>
+    </p>
+    </div>
+  </div>
+  <!-- Item STOP -->
+
+   <!-- Item START -->
+  <div class="ac">
+    <h2 class="ac-header">
+      <button class="ac-trigger">Frequent grids</button>
+    </h2>
+    <div class="ac-panel">
+    <p class="ac-text">
+      <a href="output/ov-grids.html">Go</a> to full size<br />
+      <iframe src="output/ov-grids" width="100%" height="400" frameborder="0"></iframe>
+    </p>
+    </div>
+  </div>
+  <!-- Item STOP -->
+
+</div>
+
+<script>
+  new Accordion("#ac-stats", {openOnInit: [0]});
 </script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
