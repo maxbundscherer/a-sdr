@@ -160,6 +160,8 @@ Please select one of these modes:<br />
 
 There are two sections: **Time plots** and **Stats**.
 
+<iframe src="output/time-stats-count.html" width="100%" height="400" frameborder="0"></iframe>
+
 <iframe src="output/ov-specs.html" width="100%" frameborder="0"></iframe>
 
 ### Time plots
