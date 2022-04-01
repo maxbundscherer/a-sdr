@@ -35,7 +35,7 @@ Timestamps are specified in UTC.
 ### News
 
 - **New data is automatically published every two hours**.
-- **Ft8 data collecting was disabled at 30.03.2021. I tried to receive wefax**.
+- **Ft8 data collecting was disabled at 30.03.2022. I tried to receive wefax**.
 
 ## Maps
 
