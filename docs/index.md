@@ -28,7 +28,7 @@ Instead of learning for the amateur radio license, I am dealing with **automatic
 
 I am starting with publishing ft8-signal maps received with my loop antenna. The setup is based on GNU Radio & self-developed tools/software in Python and C++. **New data is automatically published every two hours**.
 
-Timestamps are specified in UTC. **Currently, ft8 data collecting is disabled. I am trying to receive wefax**.
+Timestamps are specified in UTC. **Ft8 data collecting was disabled at 30.03.2021. I tried to receive wefax**.
 
 ## Maps
 
