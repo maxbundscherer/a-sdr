@@ -38,11 +38,13 @@ Timestamps are specified in UTC.
 - **Ft8 data collecting is/was disabled at 06.04.2022. I try to receive wefax.**
 - **Ft8 data collecting was disabled at 30.03.2022. I tried to receive wefax**.
 
-## Maps
+## FT8
+
+### Maps
 
 There are two sections: **Default Map** and **Filtered Map**.
 
-### Default Map
+#### Default Map
 
 <p>
 Please select one of these modes:<br />
@@ -118,7 +120,7 @@ Please select one of these modes:<br />
   new Accordion("#ac-static", {openOnInit: [0]});
 </script>
 
-### Filtered Map
+#### Filtered Map
 
 <p>
 Please select one of these modes:<br />
@@ -164,7 +166,7 @@ Please select one of these modes:<br />
   new Accordion("#ac-filtered", {openOnInit: [0]});
 </script>
 
-## Info
+### Info
 
 There are two sections: **Time plots** and **Stats**.
 
@@ -172,7 +174,7 @@ There are two sections: **Time plots** and **Stats**.
 
 <iframe src="output/ov-specs.html" width="100%" frameborder="0"></iframe>
 
-### Time plots
+#### Time plots
 
 <p>
 Please select one of these modes:<br />
@@ -218,7 +220,7 @@ Please select one of these modes:<br />
   new Accordion("#ac-time-plots", {openOnInit: [0]});
 </script>
 
-### Radio Bands Plots
+#### Radio Bands Plots
 
 <p>
 Please select one of these modes:<br />
@@ -264,7 +266,7 @@ Please select one of these modes:<br />
   new Accordion("#ac-time-band-plots", {openOnInit: [0]});
 </script>
 
-### Stats
+#### Stats
 
 <p>
 Please select one of these modes:<br />
