@@ -315,7 +315,7 @@ Please select one of these modes:<br />
 
 ## WEFAX
 
-tbd
+{% include_relative wefax.md %}
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-72DH61K0HZ"></script>
