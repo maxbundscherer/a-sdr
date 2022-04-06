@@ -14,7 +14,7 @@ The setup is based on GNU Radio & self-developed tools/software in Python and C+
 
 ### News/Changelog
 
-- 07.04.2022: **Added  WEFAX-receiving section**
+- 07.04.2022: **Added  WEFAX-receiving section**.
 - 06.04.2022: FT8 data collecting was disabled. I tried to receive wefax.
 - 30.03.2022: FT8 data collecting was disabled. I tried to receive wefax.
 - 04.03.2022: **Initial release**.
