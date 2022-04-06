@@ -312,6 +312,10 @@ Please select one of these modes:<br />
   new Accordion("#ac-stats", {openOnInit: [0]});
 </script>
 
+## WEFAX
+
+tbd
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-72DH61K0HZ"></script>
 <script>
