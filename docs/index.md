@@ -28,15 +28,16 @@ Instead of learning for the amateur radio license, I am dealing with **automatic
 
 **This page is about automatic (live) monitoring/reporting of different radio signals and sdr related topics**. Unfortunately, this page is under construction and is not complete. This page has started on 04-Mar-2022 and there are a lot of things to publish and do. So check back from time to time.
 
-I am starting with publishing ft8-signal maps received with my loop antenna. The setup is based on GNU Radio & self-developed tools/software in Python and C++.
+I am starting with publishing FT8-signal maps received with my loop antenna. The other day I added the WEFAX-receiving section. I am looking forward to a satellite-receiving section and other cool projects.
 
-Timestamps are specified in UTC.
+The setup is based on GNU Radio & self-developed tools/software in Python and C++. Timestamps are specified in UTC. New FT8 data is automatically published every two hours.
 
-### News
+### News/Changelog
 
-- **New data is automatically published every two hours**.
-- **Ft8 data collecting is/was disabled at 06.04.2022. I try to receive wefax.**
-- **Ft8 data collecting was disabled at 30.03.2022. I tried to receive wefax**.
+- 07.04.2022: **Added  WEFAX-receiving section**
+- 06.04.2022: FT8 data collecting was disabled. I tried to receive wefax.
+- 30.03.2022: FT8 data collecting was disabled. I tried to receive wefax.
+- 04.03.2022: **Initial release**.
 
 ## FT8
 
