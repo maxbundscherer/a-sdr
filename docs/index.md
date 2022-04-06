@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://unpkg.com/accordion-js@3.1.1/dist/accordion.min.css">
-<script src="https://unpkg.com/accordion-js@3.1.1/dist/accordion.min.js"></script>
 
 # Awesome/Automatic SDR
 

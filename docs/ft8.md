@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://unpkg.com/accordion-js@3.1.1/dist/accordion.min.css">
+<script src="https://unpkg.com/accordion-js@3.1.1/dist/accordion.min.js"></script>
+
 ### Maps
 
 There are two sections: **Default Map** and **Filtered Map**.
