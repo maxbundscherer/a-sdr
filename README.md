@@ -8,4 +8,4 @@ Just another Software-defined radio (SDR) project and page.
 
 Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
-- Please use project page [A-SDR](https://maxbundscherer.github.io/a-sdr/)
+- Please use project page [A-SDR](https://a-sdr.org/)
