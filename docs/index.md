@@ -22,12 +22,12 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 {% include_relative ft8.md %}
 
-## WEFAX
-
-{% include_relative wefax.md %}
-
 ## SSTV (from ISS)
 
 {% include_relative sstv.md %}
+
+## WEFAX
+
+{% include_relative wefax.md %}
 
 {% include_relative analytic.md %}
