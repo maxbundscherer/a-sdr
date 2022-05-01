@@ -261,7 +261,7 @@ Please select one of these modes:<br />
     <div class="ac-panel">
     <p class="ac-text">
       <a href="https://bundscherer-online.de/asdr/ov-grids.html">Go</a> to full size<br />
-      <iframe src="https://bundscherer-online.de/asdr/ov-grids" width="100%" height="400" frameborder="0"></iframe>
+      <iframe src="https://bundscherer-online.de/asdr/ov-grids.html" width="100%" height="400" frameborder="0"></iframe>
     </p>
     </div>
   </div>
