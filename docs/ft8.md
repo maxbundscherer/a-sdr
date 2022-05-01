@@ -26,8 +26,8 @@ Please select one of these modes:<br />
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
-      <a href="output/dark-size.html">Go</a> to full size<br />
-      <iframe src="output/dark-size.html" width="100%" height="600" frameborder="0"></iframe>
+      <a href="https://bundscherer-online.de/asdr/dark-size.html">Go</a> to full size<br />
+      <iframe src="https://bundscherer-online.de/asdr/dark-size.html" width="100%" height="600" frameborder="0"></iframe>
     </p>
     </div>
   </div>
@@ -40,8 +40,8 @@ Please select one of these modes:<br />
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
-      <a href="output/dark-no-size.html">Go</a> to full size<br />
-      <iframe src="output/dark-no-size.html" width="100%" height="600" frameborder="0"></iframe>
+      <a href="https://bundscherer-online.de/asdr/dark-no-size.html">Go</a> to full size<br />
+      <iframe src="https://bundscherer-online.de/asdr/dark-no-size.html" width="100%" height="600" frameborder="0"></iframe>
     </p>
     </div>
   </div>
@@ -54,8 +54,8 @@ Please select one of these modes:<br />
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
-      <a href="output/bright-size.html">Go</a> to full size<br />
-      <iframe src="output/bright-size.html" width="100%" height="600" frameborder="0"></iframe>
+      <a href="https://bundscherer-online.de/asdr/bright-size.html">Go</a> to full size<br />
+      <iframe src="https://bundscherer-online.de/asdr/bright-size.html" width="100%" height="600" frameborder="0"></iframe>
     </p>
     </div>
   </div>
@@ -68,8 +68,8 @@ Please select one of these modes:<br />
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
-      <a href="output/bright-no-size.html">Go</a> to full size<br />
-      <iframe src="output/bright-no-size.html" width="100%" height="600" frameborder="0"></iframe>
+      <a href="https://bundscherer-online.de/asdr/bright-no-size.html">Go</a> to full size<br />
+      <iframe src="https://bundscherer-online.de/asdr/bright-no-size.html" width="100%" height="600" frameborder="0"></iframe>
     </p>
     </div>
   </div>
@@ -100,8 +100,8 @@ Please select one of these modes:<br />
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
-      <a href="output/animation-band.html">Go</a> to full size<br />
-      <iframe src="output/animation-band.html" width="100%" height="600" frameborder="0"></iframe>
+      <a href="https://bundscherer-online.de/asdr/animation-band.html">Go</a> to full size<br />
+      <iframe src="https://bundscherer-online.de/asdr/animation-band.html" width="100%" height="600" frameborder="0"></iframe>
     </p>
     </div>
   </div>
@@ -114,8 +114,8 @@ Please select one of these modes:<br />
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
-      <a href="output/animation-time.html">Go</a> to full size<br />
-      <iframe src="output/animation-time.html" width="100%" height="600" frameborder="0"></iframe>
+      <a href="https://bundscherer-online.de/asdr/animation-time.html">Go</a> to full size<br />
+      <iframe src="https://bundscherer-online.de/asdr/animation-time.html" width="100%" height="600" frameborder="0"></iframe>
     </p>
     </div>
   </div>
@@ -131,9 +131,9 @@ Please select one of these modes:<br />
 
 There are two sections: **Time plots** and **Stats**.
 
-<iframe src="output/time-stats-count.html" width="100%" height="400" frameborder="0"></iframe>
+<iframe src="https://bundscherer-online.de/asdr/time-stats-count.html" width="100%" height="400" frameborder="0"></iframe>
 
-<iframe src="output/ov-specs.html" width="100%" frameborder="0"></iframe>
+<iframe src="https://bundscherer-online.de/asdr/ov-specs.html" width="100%" frameborder="0"></iframe>
 
 #### Time plots
 
@@ -154,8 +154,8 @@ Please select one of these modes:<br />
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
-      <a href="output/ov-band-by-time.html">Go</a> to full size<br />
-      <iframe src="output/ov-band-by-time.html" width="100%" height="400" frameborder="0"></iframe>
+      <a href="https://bundscherer-online.de/asdr/ov-band-by-time.html">Go</a> to full size<br />
+      <iframe src="https://bundscherer-online.de/asdr/ov-band-by-time.html" width="100%" height="400" frameborder="0"></iframe>
     </p>
     </div>
   </div>
@@ -168,8 +168,8 @@ Please select one of these modes:<br />
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
-      <a href="output/ov-frequency-by-time.html">Go</a> to full size<br />
-      <iframe src="output/ov-frequency-by-time.html" width="100%" height="600" frameborder="0"></iframe>
+      <a href="https://bundscherer-online.de/asdr/ov-frequency-by-time.html">Go</a> to full size<br />
+      <iframe src="https://bundscherer-online.de/asdr/ov-frequency-by-time.html" width="100%" height="600" frameborder="0"></iframe>
     </p>
     </div>
   </div>
@@ -200,8 +200,8 @@ Please select one of these modes:<br />
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
-      <a href="output/animation-counts-band.html">Go</a> to full size<br />
-      <iframe src="output/animation-counts-band.html" width="100%" height="400" frameborder="0"></iframe>
+      <a href="https://bundscherer-online.de/asdr/animation-counts-band.html">Go</a> to full size<br />
+      <iframe src="https://bundscherer-online.de/asdr/animation-counts-band.html" width="100%" height="400" frameborder="0"></iframe>
     </p>
     </div>
   </div>
@@ -214,8 +214,8 @@ Please select one of these modes:<br />
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
-      <a href="output/global-stats-band.html">Go</a> to full size<br />
-      <iframe src="output/global-stats-band.html" width="100%" height="400" frameborder="0"></iframe>
+      <a href="https://bundscherer-online.de/asdr/global-stats-band.html">Go</a> to full size<br />
+      <iframe src="https://bundscherer-online.de/asdr/global-stats-band.html" width="100%" height="400" frameborder="0"></iframe>
     </p>
     </div>
   </div>
@@ -246,8 +246,8 @@ Please select one of these modes:<br />
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
-      <a href="output/ov-callsigns.html">Go</a> to full size<br />
-      <iframe src="output/ov-callsigns.html" width="100%" height="400" frameborder="0"></iframe>
+      <a href="https://bundscherer-online.de/asdr/ov-callsigns.html">Go</a> to full size<br />
+      <iframe src="https://bundscherer-online.de/asdr/ov-callsigns.html" width="100%" height="400" frameborder="0"></iframe>
     </p>
     </div>
   </div>
@@ -260,8 +260,8 @@ Please select one of these modes:<br />
     </h2>
     <div class="ac-panel">
     <p class="ac-text">
-      <a href="output/ov-grids.html">Go</a> to full size<br />
-      <iframe src="output/ov-grids" width="100%" height="400" frameborder="0"></iframe>
+      <a href="https://bundscherer-online.de/asdr/ov-grids.html">Go</a> to full size<br />
+      <iframe src="https://bundscherer-online.de/asdr/ov-grids" width="100%" height="400" frameborder="0"></iframe>
     </p>
     </div>
   </div>
