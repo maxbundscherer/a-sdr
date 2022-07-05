@@ -16,18 +16,18 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 ## Overview
 
-{% include_relative overview.md %}
+{% include_relative i_overview.md %}
 
 ## FT8
 
-{% include_relative ft8.md %}
+{% include_relative i_ft8.md %}
 
 ## SSTV (from ISS)
 
-{% include_relative sstv.md %}
+{% include_relative i_sstv.md %}
 
 ## WEFAX
 
-{% include_relative wefax.md %}
+{% include_relative i_wefax.md %}
 
-{% include_relative analytic.md %}
+{% include_relative i_analytic.md %}
