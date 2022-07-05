@@ -11,15 +11,3 @@ Instead of learning for the amateur radio license, I am dealing with **automatic
 I am starting with publishing FT8-signal maps received with my loop antenna. The other day I added the WEFAX-receiving section. I am looking forward to a satellite-receiving section and other cool projects.
 
 The setup is based on GNU Radio & self-developed tools/software in Python and C++. Timestamps are specified in UTC. New FT8 data is automatically published every two hours.
-
-Also check out [Independer](https://github.com/maxbundscherer/independer-loras).
-
-### News/Changelog
-
-- 21.06.2022: Improve description.
-- 19.04.2022: FT8 data collecting was disabled. Received wefaxes (published - see below).
-- 13.04.2022: **Added  SSTV-receiving (from ISS) section**.
-- 07.04.2022: **Added  WEFAX-receiving section and new domain: a-sdr.org**.
-- 06.04.2022: FT8 data collecting was disabled. Received wefaxes (published - see below).
-- 30.03.2022: FT8 data collecting was disabled. Received wefaxes.
-- 04.03.2022: **Initial release**.
