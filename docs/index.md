@@ -9,14 +9,9 @@ Just another Software-defined radio (SDR) project and page.
 
 Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
-- Please use project page [A-SDR](https://a-sdr.org/)
-
-* TOC
-{:toc}
-
 Welcome to my [Software-defined radio (SDR)](https://en.wikipedia.org/wiki/Software-defined_radio) page.
 
-This page is currently divided into two sections.
+This page is currently divided into two sections:
 
 - [Radio](radio): Everything related to radio, automatic classification and Software-defined radio (SDR).
 
