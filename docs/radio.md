@@ -1,9 +1,9 @@
 # Awesome/Automatic SDR
 
+## Overview
+
 * TOC
 {:toc}
-
-## Overview
 
 {% include_relative i_overview.md %}
 
