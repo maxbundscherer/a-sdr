@@ -1,9 +1,5 @@
 # Independer
 
-[![shields.io](https://img.shields.io/badge/license-Apache2-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.txt)
-
-Author: [Maximilian Bundscherer](https://bundscherer-online.de)
-
 [![](images/play.png)](https://www.youtube.com/watch?v=-8pI4nHZv2M "Click to Watch!")
 
 This website is about a device called **Independer**.
