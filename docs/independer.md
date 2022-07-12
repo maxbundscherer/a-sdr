@@ -12,6 +12,10 @@ This devices is based on encrypted LoraS transfer protocol (LoRaS) and the Indep
 
 The project is still in its initial phase. If you want to **join, or have an idea**, feel free to [write us](mailto:maximilian@bundscherer-online.de) or [start a discussion](https://github.com/maxbundscherer/independer-loras/discussions).
 
-[More Infos / Developer](https://github.com/maxbundscherer/independer-loras)
+## Related links
+
+- [More Infos / Developer](https://github.com/maxbundscherer/independer-loras)
+- [State of development](https://github.com/maxbundscherer/independer-loras/projects/2)
+- [Releases](https://github.com/maxbundscherer/independer-loras/releases)
 
 {% include_relative i_analytic.md %}
