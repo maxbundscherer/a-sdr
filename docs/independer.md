@@ -10,7 +10,7 @@ We use cheap *ESP32s*, *LoRa antennas*, *3D prototyping*, *mini keyboards* and d
 
 This devices is based on encrypted LoraS transfer protocol (LoRaS) and the Independer application protocol. There are two type of devices: **Actor** (ID e.g. ``0x01`` or ``0x02``) with keyboard & accumulator and **Gateway** (ID e.g. ``0g01`` or ``0g02``) opt. with accumulator.
 
-The project is still in its initial phase. If you want to **join, or have an idea**, feel free to [write us](mailto:maximilian@bundscherer-online.de) or [start a discussion](https://github.com/maxbundscherer/independer-loras/discussions).
+The project is still in its development phase. If you want to **join, or have an idea**, feel free to [write us](mailto:maximilian@bundscherer-online.de) or [start a discussion](https://github.com/maxbundscherer/independer-loras/discussions).
 
 ## Related links
 
