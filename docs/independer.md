@@ -2,15 +2,15 @@
 
 ## Test 1
 
-<object data="http://a-sdr.org/independer/independer.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://a-sdr.org/independer/independer.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://a-sdr.org/independer/independer.pdf">Download PDF</a>.</p>
+<object data="independer/independer.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="independer/independer.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="independer/independer.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 ## Test 2
 
-<embed src="http://a-sdr.org/independer/independer.pdf" type="application/pdf">
+<embed src="independer/independer.pdf" type="application/pdf">
 
 ## About
 
