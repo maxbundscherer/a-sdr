@@ -1,22 +1,41 @@
 # Independer
 
-<object data="independer/independer.pdf" type="application/pdf" width="100%" height="700px">
-    <embed src="independer/independer.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="independer/independer.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+This repository is about a device called **Independer**.
 
-[![](images/play.png)](https://www.youtube.com/watch?v=-8pI4nHZv2M "Click to Watch!")
+**Encrypted messaging & data sharing** via LoRaS & inexpensive hardware (ESP32). **Independent from mobile network & WIFI**. We use cheap *ESP32s*, *LoRa antennas*, *3D prototyping*, *mini keyboards* and develop our own encrypted *protocol* together with *software*.
 
-This website is about a device called **Independer**.
+If you want to **join, or have an idea**, feel free to [write us](mailto:maximilian@bundscherer-online.de) or [start a discussion](https://github.com/maxbundscherer/independer-loras/discussions). The current state of development can be viewed on the [project board](https://github.com/maxbundscherer/independer-loras/projects/2).
 
-The goal is to develop a small **open-source communication gadget** (at the beginning we start with end-to-end encrypted messaging and data sharing) based on LoRa (thus **independent from normal infrastructures** like mobile network or WIFI).
+Presentation             |  Prototype-Video
+:-------------------------:|:-------------------------:
+<a href="http://a-sdr.org/independer/independer.pdf" target="_blank"><img src="images/openpdf.png" style="max-height:250px" /></a> | <a href="https://www.youtube.com/watch?v=-8pI4nHZv2M" target="_blank"><img src="images/play.png" style="max-height:250px"/></a>
 
-We use cheap *ESP32s*, *LoRa antennas*, *3D prototyping*, *mini keyboards* and develop our own encrypted *protocol* together with *software*.
+``esp32 - lora - encryption - short-message - protocol - keyboard - platformio - 3d-printing - independent``
 
-This devices is based on encrypted LoraS transfer protocol (LoRaS) and the Independer application protocol. There are two type of devices: **Actor** (ID e.g. ``0x01`` or ``0x02``) with keyboard & accumulator and **Gateway** (ID e.g. ``0g01`` or ``0g02``) opt. with accumulator.
+## Open-Source Project
 
-The project is still in its development phase. If you want to **join, or have an idea**, feel free to [write us](mailto:maximilian@bundscherer-online.de) or [start a discussion](https://github.com/maxbundscherer/independer-loras/discussions).
+Anyone can **contribute to the project** and **build their own device**. Many more features like GPS visualization, environment scanner, touch screen, alternative transmission and encryption functions are waiting **in the future**!
+
+## Features
+
+- **Actor to Actor (via LoRaS)**: Send messages directly between two Actors.
+- **Actor to Gateway (via LoRaS)**: Send messages via Gateway. Actors can query their messages from Gateways.
+- **Actor to Actor (via WIFI/Internet)**: Send messages via Internet. Actors can query their messages from WIFI/Internet.
+- **Who is near me?** Scan the environment to find other Independers.
+- **Many other functions**: Various test functions (Reachability Check, Reception & Transmission Evaluation), Update via WIFI, Notification LED, Deep Sleep Mode, Background-Sync, Battery Status, Send Quota & Gain, Contacts...
+
+## Specifications
+
+- Built on inexpensive Hardware
+- Open-Source Software & Protocol
+- Open-Source 3D-printed Case
+- Multiple ESP32-Boards Supported
+- OLED-Screen
+- LoRa & WIFI
+- External Antenna Connector
+- Mini Keyboard (QWERTY)
+- 3000mAh LiPo Battery
+- USB Charging (Micro-USB)
 
 ## Related links
 

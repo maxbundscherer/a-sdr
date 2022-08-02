@@ -15,7 +15,7 @@ This page is currently divided into two sections:
 
 - [Radio](radio): Everything related to radio, automatic classification and Software-defined radio (SDR).
 
-- [Independer](independer): Encrypted messaging and data sharing via LoRaS and inexpensive hardware (ESP32). Independent from mobile network & WIFI.
+- [Independer](independer): Encrypted messaging & data sharing via LoRaS & inexpensive hardware (ESP32). Independent from mobile network & WIFI.
 
 ## News/Changelog
 
