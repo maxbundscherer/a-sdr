@@ -1,5 +1,19 @@
 # Independer
 
+## Test 1
+
+<object data="http://a-sdr.org/independer/independer.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://a-sdr.org/independer/independer.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://a-sdr.org/independer/independer.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## Test 2
+
+<embed src="http://a-sdr.org/independer/independer.pdf" type="application/pdf">
+
+## About
+
 [![](images/play.png)](https://www.youtube.com/watch?v=-8pI4nHZv2M "Click to Watch!")
 
 This website is about a device called **Independer**.
