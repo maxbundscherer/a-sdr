@@ -1,6 +1,6 @@
 # Independer
 
-This repository is about a device called **Independer**.
+This repository is about a device called **Independer**. An Open-Source Project.
 
 **Encrypted messaging & data sharing** via LoRaS & inexpensive hardware (ESP32). **Independent from mobile network & WIFI**. We use cheap *ESP32s*, *LoRa antennas*, *3D prototyping*, *mini keyboards* and develop our own encrypted *protocol* together with *software*.
 
@@ -11,10 +11,6 @@ Presentation             |  Prototype-Video
 <a href="http://a-sdr.org/independer/independer.pdf" target="_blank"><img src="images/openpdf.png" style="max-height:250px" /></a> | <a href="https://www.youtube.com/watch?v=-8pI4nHZv2M" target="_blank"><img src="images/play.png" style="max-height:250px"/></a>
 
 ``esp32 - lora - encryption - short-message - protocol - keyboard - platformio - 3d-printing - independent``
-
-## Open-Source Project
-
-Anyone can **contribute to the project** and **build their own device**. Many more features like GPS visualization, environment scanner, touch screen, alternative transmission and encryption functions are waiting **in the future**!
 
 ## Features
 
@@ -36,6 +32,10 @@ Anyone can **contribute to the project** and **build their own device**. Many mo
 - Mini Keyboard (QWERTY)
 - 3000mAh LiPo Battery
 - USB Charging (Micro-USB)
+
+## Open-Source Project
+
+Anyone can **contribute to the project** and **build their own device**. Many more features like GPS visualization, environment scanner, touch screen, alternative transmission and encryption functions are waiting **in the future**!
 
 ## Related links
 
