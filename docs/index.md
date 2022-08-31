@@ -19,6 +19,7 @@ This page is currently divided into two sections:
 
 ## News/Changelog
 
+- 31.08.2022: Due to the current significantly increased energy costs, **automatic FT8 recording is currently paused**.
 - 05.07.2022: Add **Independer Section**.
 - 21.06.2022: Improve description.
 - 19.04.2022: FT8 data collecting was disabled. Received wefaxes (published - see below).
