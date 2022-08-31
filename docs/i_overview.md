@@ -10,12 +10,11 @@ I am starting with publishing FT8-signal maps received with my loop antenna. The
 
 The setup is based on GNU Radio & self-developed tools/software in Python and C++. Timestamps are specified in UTC. New FT8 data is automatically published every two hours.
 
+You can find the changelog of this page [here](https://a-sdr.org/#newschangelog). Also check out [Independer](https://a-sdr.org/independer).
+
 ### Important information
 
-Due to the current significantly increased energy costs, automatic FT8 recording is currently paused.
-
-Recording was started on 2022-03-04 and paused on 2022-08-31.
+Due to the current significantly increased energy costs, automatic FT8 recording is currently paused. Recording was started on 2022-03-04 and paused on 2022-08-31.
 
 If you have any questions or would like to support automatic recording, please [email me](mailto:maximilian@bundscherer-online.de).
 
-You can find the changelog of this page [here](https://a-sdr.org/#newschangelog).
