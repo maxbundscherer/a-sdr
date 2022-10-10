@@ -1,6 +1,6 @@
 ### Introduction
 
-Normally I am a computer scientist with a focus on data science and software engineering located in Germany near Munich (QTH JN58). Today I want to **share my radio signal hobby** with all of you. I currently have no amateur radio license, but I am on it.
+Normally I am a computer scientist with a focus on data science and software engineering located in Germany near Munich (QTH JN58) or in Nuremberg (QTH JN59). Today I want to **share my radio signal hobby** with all of you. I currently have no amateur radio license, but I am on it.
 
 Instead of learning for the amateur radio license, I am dealing with **automatic signal identification, classification, monitoring, demodulation & decoding of voice, data & natural radio signals**. I am using traditional methods and machine learning (ml) / artificial intelligence (ai) techniques for these points.
 
@@ -12,9 +12,8 @@ The setup is based on GNU Radio & self-developed tools/software in Python and C+
 
 You can find the changelog of this page [here](https://a-sdr.org/#newschangelog). Also check out [Independer](https://a-sdr.org/independer).
 
-### Important information
+### Current information
 
-Due to the current significantly increased energy costs, automatic FT8 recording is currently paused. Recording was started on 2022-03-04 and paused on 2022-08-31.
+Due to the current significantly increased energy costs, automatic FT8 recording is currently paused. Recording was started on 2022-03-04 and paused on 2022-08-31. This applied to recording in JN58.
 
-If you have any questions or would like to support automatic recording, please [email me](mailto:maximilian@bundscherer-online.de).
-
+On 2022-10-10, data recording was started again in JN59. The data on this page shows only recorded data in JN59.
