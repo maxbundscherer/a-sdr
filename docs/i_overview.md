@@ -8,7 +8,7 @@ Instead of learning for the amateur radio license, I am dealing with **automatic
 
 I am starting with publishing FT8-signal maps received with my loop antenna. The other day I added the WEFAX-receiving section. I am looking forward to a satellite-receiving section and other cool projects.
 
-The setup is based on GNU Radio & self-developed tools/software in Python and C++. Timestamps are specified in UTC. New FT8 data is automatically published every two hours. The diagrams with time axis always refer to the last 7 days. The 'Number of received signals by day' plot is an exception to this.
+The setup is based on GNU Radio & self-developed tools/software in Python and C++. Timestamps are specified in UTC. New FT8 data is automatically published every two hours. The diagrams with time axis always refer to the last 7 days. The *Number of received signals by day* plot is an exception to this.
 
 You can find the changelog of this page [here](https://a-sdr.org/#newschangelog). Also check out [Independer](https://a-sdr.org/independer).
 
