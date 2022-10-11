@@ -19,6 +19,7 @@ This page is currently divided into two sections:
 
 ## News/Changelog
 
+- 11.10.2022: Improve FT8 Visualizations.
 - 10.10.2022: **Automatic FT8 recording is active again** (in JN59).
 - 31.08.2022: Due to the current significantly increased energy costs, **automatic FT8 recording is currently paused**.
 - 05.07.2022: Add **Independer Section**.
