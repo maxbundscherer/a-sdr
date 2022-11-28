@@ -20,6 +20,7 @@ On 2022-10-10, data recording was started again in JN59. The data on this page s
 
 ### News/Changelog
 
+- 28.11.2022: FT8 data collecting is active again.
 - 23.11.2022: FT8 data collecting was disabled. Received SSTV images.
 - 11.10.2022: Improve FT8 Visualizations.
 - 10.10.2022: **Automatic FT8 recording is active again** (in JN59).
