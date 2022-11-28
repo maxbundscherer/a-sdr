@@ -39,6 +39,7 @@ Anyone can **contribute to the project** and **build their own device**. Many mo
 
 ## Related links
 
+- [How-to, Hardware and Cost Overview](docs/howto.md)
 - [More Infos / Developer](https://github.com/maxbundscherer/independer-loras)
 - [State of development](https://github.com/maxbundscherer/independer-loras/projects/2)
 - [Releases](https://github.com/maxbundscherer/independer-loras/releases)
