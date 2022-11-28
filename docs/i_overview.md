@@ -6,7 +6,7 @@ Instead of learning for the amateur radio license, I am dealing with **automatic
 
 **This page is about automatic (live) monitoring/reporting of different radio signals and sdr related topics**. Unfortunately, this page is under construction and is not complete. This page has started on 04-Mar-2022 and there are a lot of things to publish and do. So check back from time to time.
 
-I am starting with publishing FT8-signal maps received with my loop antenna. The other day I added the WEFAX-receiving section. I am looking forward to a satellite-receiving section and other cool projects.
+I am starting with publishing FT8-signal maps received with my loop antenna. I added WEFAX, SSTV (from ISS) and SSTV (from HAM Radio) sections.
 
 The setup is based on GNU Radio & self-developed tools/software in Python and C++. Timestamps are specified in UTC. New FT8 data is automatically published every two hours. The diagrams with time axis always refer to the last 7 days. The *Number of received signals by day* plot is an exception to this.
 
@@ -20,6 +20,7 @@ On 2022-10-10, data recording was started again in JN59. The data on this page s
 
 ### News/Changelog
 
+- 29.11.2022: **Added  SSTV-receiving (from HAM Radio) section**.
 - 28.11.2022: FT8 data collecting is active again.
 - 23.11.2022: FT8 data collecting was disabled. Received SSTV images.
 - 11.10.2022: Improve FT8 Visualizations.
