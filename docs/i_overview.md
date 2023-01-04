@@ -20,6 +20,7 @@ On 2022-10-10, data recording was started again in JN59. The data on this page s
 
 ### News/Changelog
 
+- 04.01.2023: FT8 data collecting was disabled. Received SSTV images.
 - 12.12.2022: Update Infrastructure (there may be gaps in data collection).
 - 29.11.2022: **Added  SSTV-receiving (from HAM Radio) section**.
 - 28.11.2022: FT8 data collecting is active again.
