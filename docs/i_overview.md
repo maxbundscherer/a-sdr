@@ -20,6 +20,7 @@ On 2022-10-10, data recording was started again in JN59. The data on this page s
 
 ### News/Changelog
 
+- 08.12.2023: Automatic FT8 recording is currently paused.
 - 03.12.2023: Automatic FT8 recording is active again.
 - 23.11.2023: Automatic FT8 recording is currently paused.
 - 27.05.2023: Automatic FT8 recording is active again (switched location).
