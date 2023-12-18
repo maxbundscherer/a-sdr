@@ -1,8 +1,6 @@
 ### Introduction
 
-Normally I am a computer scientist with a focus on data science and software engineering located in Germany near Munich (QTH JN58) or in Nuremberg (QTH JN59). Today I want to **share my radio signal hobby** with all of you. I currently have no amateur radio license, but I am on it.
-
-Instead of learning for the amateur radio license, I am dealing with **automatic signal identification, classification, monitoring, demodulation & decoding of voice, data & natural radio signals**. I am using traditional methods and machine learning (ml) / artificial intelligence (ai) techniques for these points.
+Normally I am a computer scientist with a focus on data science and software engineering located in Nuremberg (QTH JN59). Today I want to **share my radio signal hobby** with all of you. My callsign is [DD7MB](https://dd7mb.de).
 
 **This page is about automatic (live) monitoring/reporting of different radio signals and sdr related topics**. Unfortunately, this page is under construction and is not complete. This page has started on 04-Mar-2022 and there are a lot of things to publish and do. So check back from time to time.
 
@@ -10,16 +8,12 @@ I am starting with publishing FT8-signal maps received with my loop antenna. I a
 
 The setup is based on GNU Radio & self-developed tools/software in Python and C++. Timestamps are specified in UTC. New FT8 data is automatically published every two hours. The diagrams with time axis always refer to the last 7 days. The *Number of received signals by day* plot is an exception to this.
 
-Also check out [Independer](https://a-sdr.org/independer).
-
-### Current information
-
-Due to the current significantly increased energy costs, automatic FT8 recording is currently paused. Recording was started on 2022-03-04 and paused on 2022-08-31. This applied to recording in JN58.
-
-On 2022-10-10, data recording was started again in JN59. The data on this page shows only recorded data in JN59.
+- Also check out [DD7MB](https://dd7mb.de).
+- Also check out [A-SDR / Independer](https://a-sdr.org/).
 
 ### News/Changelog
 
+- 18.12.2023: Added website DD7MB.
 - 14.12.2023: Automatic FT8 recording is active again.
 - 08.12.2023: Automatic FT8 recording is currently paused.
 - 03.12.2023: Automatic FT8 recording is active again.
