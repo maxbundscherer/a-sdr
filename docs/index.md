@@ -21,7 +21,7 @@ You can also visit my ham radio website [DD7MB](https://dd7mb.de).
 
 This page is currently divided into two sections:
 
-- [Radio](radio): Everything related to radio, automatic classification and Software-defined radio (SDR).
+- [SDR](radio): Everything related to Software-defined radio (SDR).
 
 - [Independer](independer): Encrypted messaging & data sharing via LoRaS & inexpensive hardware (ESP32). Independent from mobile network & WIFI.
 
