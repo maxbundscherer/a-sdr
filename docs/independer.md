@@ -1,5 +1,9 @@
 # Independer
 
+**Global Navigation**
+
+{% include_relative navbar.html %}
+
 This repository is about a device called **Independer**. An Open-Source Project.
 
 **Encrypted messaging & data sharing** via LoRaS & inexpensive hardware (ESP32). **Independent from mobile network & WIFI**. We use cheap *ESP32s*, *LoRa antennas*, *3D prototyping*, *mini keyboards* and develop our own encrypted *protocol* together with *software*.

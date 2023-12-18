@@ -9,6 +9,10 @@ Author: [Maximilian Bundscherer](https://bundscherer-online.de)
 
 Welcome to my [Software-defined radio (SDR)](https://en.wikipedia.org/wiki/Software-defined_radio) page.
 
+**Global Navigation**
+
+{% include_relative navbar.html %}
+
 ## DD7MB
 
 You can also visit my ham radio website [DD7MB](https://dd7mb.de).

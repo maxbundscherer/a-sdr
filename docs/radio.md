@@ -1,5 +1,11 @@
 # Awesome/Automatic SDR
 
+**Global Navigation**
+
+{% include_relative navbar.html %}
+
+**Page Navigation**
+
 * TOC
 {:toc}
 
