@@ -1,6 +1,6 @@
 ### Introduction
 
-Normally I am a computer scientist with a focus on data science and software engineering located in Nuremberg (QTH JN59). Today I want to **share my radio signal hobby** with all of you. My callsign is [DD7MB](https://dd7mb.de).
+Normally I am a computer scientist with a focus on data science and software engineering located in Nuremberg (QTH JN59NK). Today I want to **share my radio signal hobby** with all of you. My callsign is [DD7MB](https://dd7mb.de).
 
 **This page is about automatic (live) monitoring/reporting of different radio signals and sdr related topics**. Unfortunately, this page is under construction and is not complete. This page has started on 04-Mar-2022 and there are a lot of things to publish and do. So check back from time to time.
 
