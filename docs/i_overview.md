@@ -13,7 +13,6 @@ The setup is based on GNU Radio & self-developed tools/software in Python and C+
 
 ### News/Changelog
 
-- 26.06.2024: Automatic FT8 recording is currently paused.
 - 15.05.2024: Automatic FT8 recording is active again.
 - 13.05.2024: Automatic FT8 recording is currently paused.
 - 18.12.2023: Added website DD7MB.
